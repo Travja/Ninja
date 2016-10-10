@@ -1,0 +1,2 @@
+D:\Development\Ninja\Ninja\NinjaContent\obj\x86\Debug\NinjaContent.contentprojResolveAssemblyReference.cache
+G:\Development\Ninja\Ninja\NinjaContent\obj\x86\Debug\NinjaContent.contentprojResolveAssemblyReference.cache

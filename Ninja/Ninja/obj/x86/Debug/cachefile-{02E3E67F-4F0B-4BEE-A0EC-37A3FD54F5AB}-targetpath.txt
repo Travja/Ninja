@@ -1,0 +1,15 @@
+Content\Ninja.xnb
+Content\Flan.xnb
+Content\back.xnb
+Content\speech.xnb
+Content\blob.xnb
+Content\Box.xnb
+Content\sword.xnb
+Content\heart.xnb
+Content\gameover.xnb
+Content\Banner.xnb
+Content\stamina.xnb
+Content\door.xnb
+Content\room1.xnb
+Content\text.xnb
+Content\text_big.xnb
